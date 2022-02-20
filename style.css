@@ -1,0 +1,59 @@
+/* .para{
+    color:green;
+    border: 14px solid blue;
+    background-color: aquamarine;
+    height: 300px;
+    width: 500px;
+    margin: 20px;
+    padding: 50px;
+} */
+/* #para{
+    border: 50px groove red;
+    margin:50px ;
+    height: 300px;
+    width: 500px;
+    background: pink;
+    padding: 20px;
+    border-radius: 20px;
+} */
+body{
+    border: 10px double hotpink;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    background: brown;
+    border: 3px solid indigo;
+    border-radius: 50%;
+}
+.div2{
+    color :blue;
+     width:200px;
+      height:200px;
+     background:grey 
+}
+.box{
+    border: 50px solid blue;
+    margin:100px ;
+    height: 300px;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    width: 300px;
+    background: green;
+    padding: 20px; 
+}
+.one{
+    width: 300px;
+    height: 300px;
+    border: 5px solid blue;
+    background: crimson;
+}
+#two{
+   
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    border: 5px solid blue;
+    background: crimson;
+}
